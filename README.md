@@ -1,4 +1,6 @@
-###  :sound: Greetings
+### Greetings :smile:
+
+:zap: One of my super powers is an outstanding ability to catch things when they drop unexpectedly. I am on a 9 ctaches streak at the moment.
 
 <!--
 **Pedro-Mac/Pedro-Mac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
