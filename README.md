@@ -1,8 +1,9 @@
 ### Greetings :smile:
 
-:computer: I am a frontend developer  
-:zap: One of my super powers is an outstanding ability to catch things when they drop unexpectedly. I am on a 9 ctaches streak at the moment  
-:ocean: My addiction to the ocean and surfing is irreversible.  
+* :computer: I am a frontend developer  
+* :ocean: My addiction to the ocean and surfing is irreversible  
+* :zap: One of my super powers is an outstanding ability to catch things when they drop unexpectedly. I am on a 9 ctaches streak at the moment  
+
 
 
 <!--
