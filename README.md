@@ -2,7 +2,7 @@
 
 * :computer: I am a frontend developer  
 * :ocean: My addiction to wildlife, to the ocean and to surf is irreversible  
-* :zap: One of my super powers is an outstanding ability to catch things when they drop unexpectedly. I am on a 10 caches streak at the moment  
+* :zap: One of my super powers is an outstanding ability to catch things when they drop unexpectedly. I am on a 10 catches streak at the moment  
 
 
 
