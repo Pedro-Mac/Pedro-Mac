@@ -3,7 +3,7 @@
 * :computer: I am a frontend developer  
 * :ocean: I'm addicted to wildlife, to the ocean and to surf  
 * :zap: One of my super powers is an outstanding ability to catch things when they drop unexpectedly
-🌱 I’m currently improving my understanding of complex web applications;
+* 🌱 I’m currently improving my understanding of complex web applications;
 
 <!--
 **Pedro-Mac/Pedro-Mac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
