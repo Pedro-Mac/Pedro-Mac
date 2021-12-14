@@ -1,8 +1,8 @@
 ### Greetings :smile:
 
-* :computer: I am a frontend developer  
-* :ocean: I'm addicted to wildlife, to the ocean and to surf  
-* :zap: One of my super powers is an outstanding ability to catch things when they drop unexpectedly
+* :computer: I am a frontend developer;
+* :ocean: I'm addicted to wildlife, to the ocean and to surf;
+* :zap: One of my super powers is an outstanding ability to catch things mid-air;
 * 🌱 I’m currently improving my understanding of complex web applications;
 
 <!--
