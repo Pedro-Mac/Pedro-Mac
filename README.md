@@ -1,8 +1,8 @@
 ### Greetings :smile:
 
-* :computer: I am a frontend developer;
-* :ocean: I'm addicted to wildlife, to the ocean and to surf;
+* :ocean: I feel the happiest when I am surfing;
 * :zap: One of my super powers is an outstanding ability to catch things mid-air;
+* 🌱 I’m currently learning React Native
 
 <!--
 **Pedro-Mac/Pedro-Mac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
