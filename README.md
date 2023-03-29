@@ -2,6 +2,8 @@
 
 * :ocean: I feel the happiest when I am surfing;
 * :zap: One of my super powers is an outstanding ability to catch things mid-air;
+* :books: I	love reading fantasy books
+* ♟️ Chess fan
 
 <!--
 **Pedro-Mac/Pedro-Mac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
