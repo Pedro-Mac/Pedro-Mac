@@ -1,8 +1,7 @@
 ### Greetings :smile:
 
 * :ocean: I feel the happiest when I am surfing
-* :zap: One of my super powers is crazily catching things mid-air
-* :books: I	love reading fantasy books
+* :zap: One of my super powers is catching things mid-air
 * ♟️ Chess fan
 
 <!--
